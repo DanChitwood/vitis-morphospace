@@ -1,4 +1,3 @@
-# Ignore large data folders
 data/inference_pol_cart_aligned/
 outputs/jaccard_dist_matrix.npy
 *.DS_Store
